@@ -1,0 +1,43 @@
+<convert2exe>
+    <uacLevel>highestAvailable</uacLevel>
+    <launcher>C:\Program Files\Vbsedit\html64c_registry.exe</launcher>
+    <dependencies>
+        <dependency>assets\css\aml 2.0.0.css</dependency>
+        <dependency>assets\css\aos\aos.css</dependency>
+        <dependency>assets\css\bootstrap.css</dependency>
+        <dependency>assets\css\font-awesome\font-awesome.css</dependency>
+        <dependency>assets\css\lightgallery.min.css</dependency>
+        <dependency>assets\css\loader\loaders.css</dependency>
+        <dependency>assets\css\responsive.css</dependency>
+        <dependency>assets\css\style.css</dependency>
+        <dependency>assets\css\swiper\swiper.css</dependency>
+        <dependency>assets\images\featured-img1.jpg</dependency>
+        <dependency>assets\images\featured-img2.jpg</dependency>
+        <dependency>assets\images\service1.png</dependency>
+        <dependency>assets\images\service2.png</dependency>
+        <dependency>assets\images\service3.png</dependency>
+        <dependency>assets\images\service4.png</dependency>
+        <dependency>assets\images\service5.png</dependency>
+        <dependency>assets\js\aos.js</dependency>
+        <dependency>assets\js\bootstrap.bundle.js</dependency>
+        <dependency>assets\js\jquery-3.3.1.js</dependency>
+        <dependency>assets\js\lightgallery-all.min.js</dependency>
+        <dependency>assets\js\loaders.css.js</dependency>
+        <dependency>assets\js\main.js</dependency>
+        <dependency>assets\js\swiper.min.js</dependency>
+        <dependency>popper.js</dependency>
+    </dependencies>
+    <createmsi>no</createmsi>
+    <msi>
+        <targetFolder>H:\lock\GlobalMall\index_msi</targetFolder>
+        <version>1.0.0.0</version>
+        <description>MSI package for Index</description>
+        <productName>Index</productName>
+        <manufacturer>HP 250</manufacturer>
+        <scope>perUser</scope>
+        <upgradeCode>{1E38C087-951D-4604-A5CB-F0C822B0DF9F}</upgradeCode>
+        <desktopShortcut>yes</desktopShortcut>
+        <startmenuShortcut>yes</startmenuShortcut>
+        <dependencies />
+    </msi>
+</convert2exe>

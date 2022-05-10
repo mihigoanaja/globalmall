@@ -1,0 +1,393 @@
+calibri {
+font-family: calibri
+}
+consolas {
+font-family: consolas
+}
+bold {
+font-weight: bold
+}
+upper {
+text-transform: uppercase
+}
+lower {
+text-transform: lowercase
+}
+red {
+color: red
+}
+blue {
+color: blue
+}
+green {
+color: green
+}
+yellow {
+color: yellow
+}
+black {
+color: black
+}
+gray {
+color: gray
+}
+text[size="1"]{
+font-size: 1px
+}
+text[size="2"]{
+font-size: 2px
+}
+text[size="3"]{
+font-size: 3px
+}
+text[size="4"]{
+font-size: 4px
+}
+text[size="5"]{
+font-size: 5px
+}
+text[size="6"]{
+font-size: 6px
+}
+text[size="7"]{
+font-size: 7px
+}
+text[size="8"]{
+font-size: 8px
+}
+text[size="9"]{
+font-size: 9px
+}
+text[size="10"]{
+font-size: 10px
+}
+text[size="11"]{
+font-size: 11px
+}
+text[size="12"]{
+font-size: 12px
+}
+text[size="13"]{
+font-size: 13px
+}
+text[size="14"]{
+font-size: 14px
+}
+text[size="15"]{
+font-size: 15px
+}
+text[size="16"]{
+font-size: 16px
+}
+text[size="17"]{
+font-size: 17px
+}
+text[size="18"]{
+font-size: 18px
+}
+text[size="19"]{
+font-size: 19px
+}
+text[size="20"]{
+font-size: 20px
+}
+text[size="21"]{
+font-size: 21px
+}
+text[size="22"]{
+font-size: 22px
+}
+text[size="23"]{
+font-size: 23px
+}
+text[size="24"]{
+font-size: 24px
+}
+text[size="25"]{
+font-size: 25px
+}
+text[size="26"]{
+font-size: 26px
+}
+text[size="27"]{
+font-size: 27px
+}
+text[size="28"]{
+font-size: 28px
+}
+text[size="29"]{
+font-size: 29px
+}
+text[size="30"]{
+font-size: 30px
+}
+text[size="31"]{
+font-size: 31px
+}
+text[size="32"]{
+font-size: 32px
+}
+text[size="33"]{
+font-size: 33px
+}
+text[size="34"]{
+font-size: 34px
+}
+text[size="35"]{
+font-size: 35px
+}
+text[size="36"]{
+font-size: 36px
+}
+text[size="37"]{
+font-size: 37px
+}
+text[size="38"]{
+font-size: 38px
+}
+text[size="39"]{
+font-size: 39px
+}
+text[size="40"]{
+font-size: 40px
+}
+text[size="41"]{
+font-size: 41px
+}
+text[size="42"]{
+font-size: 42px
+}
+text[size="43"]{
+font-size: 43px
+}
+text[size="44"]{
+font-size: 44px
+}
+text[size="45"]{
+font-size: 45px
+}
+text[size="46"]{
+font-size: 46px
+}
+text[size="47"]{
+font-size: 47px
+}
+text[size="48"]{
+font-size: 48px
+}
+text[size="49"]{
+font-size: 49px
+}
+text[size="50"]{
+font-size: 50px
+}
+text[size="51"]{
+font-size: 51px
+}
+text[size="52"]{
+font-size: 52px
+}
+text[size="53"]{
+font-size: 53px
+}
+text[size="54"]{
+font-size: 54px
+}
+text[size="55"]{
+font-size: 55px
+}
+text[size="56"]{
+font-size: 56px
+}
+text[size="57"]{
+font-size: 57px
+}
+text[size="58"]{
+font-size: 58px
+}
+text[size="59"]{
+font-size: 59px
+}
+text[size="60"]{
+font-size: 60px
+}
+text[size="61"]{
+font-size: 61px
+}
+text[size="62"]{
+font-size: 62px
+}
+text[size="63"]{
+font-size: 63px
+}
+text[size="64"]{
+font-size: 64px
+}
+text[size="65"]{
+font-size: 65px
+}
+text[size="66"]{
+font-size: 66px
+}
+text[size="67"]{
+font-size: 67px
+}
+text[size="68"]{
+font-size: 68px
+}
+text[size="69"]{
+font-size: 69px
+}
+text[size="70"]{
+font-size: 70px
+}
+text[size="71"]{
+font-size: 71px
+}
+text[size="72"]{
+font-size: 72px
+}
+text[size="73"]{
+font-size: 73px
+}
+text[size="74"]{
+font-size: 74px
+}
+text[size="75"]{
+font-size: 75px
+}
+text[size="76"]{
+font-size: 76px
+}
+text[size="77"]{
+font-size: 77px
+}
+text[size="78"]{
+font-size: 78px
+}
+text[size="79"]{
+font-size: 79px
+}
+text[size="80"]{
+font-size: 80px
+}
+text[size="81"]{
+font-size: 81px
+}
+text[size="82"]{
+font-size: 82px
+}
+text[size="83"]{
+font-size: 83px
+}
+text[size="84"]{
+font-size: 84px
+}
+text[size="85"]{
+font-size: 85px
+}
+text[size="86"]{
+font-size: 86px
+}
+text[size="87"]{
+font-size: 87px
+}
+text[size="88"]{
+font-size: 88px
+}
+text[size="89"]{
+font-size: 89px
+}
+text[size="90"]{
+font-size: 90px
+}
+text[size="91"]{
+font-size: 91px
+}
+text[size="92"]{
+font-size: 92px
+}
+text[size="93"]{
+font-size: 93px
+}
+text[size="94"]{
+font-size: 94px
+}
+text[size="95"]{
+font-size: 95px
+}
+text[size="96"]{
+font-size: 96px
+}
+text[size="97"]{
+font-size: 97px
+}
+text[size="98"]{
+font-size: 98px
+}
+text[size="99"]{
+font-size: 99px
+}
+text[size="100"]{
+font-size: 100px
+}
+text[size="101"]{
+font-size: 101px
+}
+text[size="102"]{
+font-size: 102px
+}
+text[size="103"]{
+font-size: 103px
+}
+text[size="104"]{
+font-size: 104px
+}
+text[size="105"]{
+font-size: 105px
+}
+text[size="106"]{
+font-size: 106px
+}
+text[size="107"]{
+font-size: 107px
+}
+text[size="108"]{
+font-size: 108px
+}
+text[size="109"]{
+font-size: 109px
+}
+text[size="110"]{
+font-size: 110px
+}
+text[size="111"]{
+font-size: 111px
+}
+text[size="112"]{
+font-size: 112px
+}
+text[size="113"]{
+font-size: 113px
+}
+text[size="114"]{
+font-size: 114px
+}
+text[size="115"]{
+font-size: 115px
+}
+text[size="116"]{
+font-size: 116px
+}
+text[size="117"]{
+font-size: 117px
+}
+text[size="118"]{
+font-size: 118px
+}
+text[size="119"]{
+font-size: 119px
+}
+text[size="120"]{
+font-size: 120px
+}
